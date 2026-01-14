@@ -25,7 +25,7 @@ What's the version of `pip` in the image?
 - 24.2.1
 - 23.3.1
 
-![NO 1](week-1/img/no 1 pull_python.png)
+![NO 1](week-1/img/no%201%20pull_python.png)
 
 
 ## Question 2. Understanding Docker networking and docker-compose
@@ -71,7 +71,7 @@ volumes:
 - db:5432
 
 If multiple answers are correct, select any
-![NO 2](week-1/img/no 2 conn_to_db.png)
+![NO 2](week-1/img/no%202%20conn_to_db.png)
 
 ## Prepare the Data
 
@@ -101,7 +101,7 @@ For the trips in November 2025 (lpep_pickup_datetime between '2025-11-01' and '2
 - 8,254
 - 8,421
 
-![No 3](week-1/img/no 3.png)
+![No 3](week-1/img/no%203.png)
 
 ## Question 4. Longest trip for each day
 
@@ -113,7 +113,8 @@ Use the pick up time for your calculations.
 - 2025-11-20
 - 2025-11-23
 - 2025-11-25
-![No 4](week-1/img/no 4.png)
+
+![No 4](week-1/img/no%204.png)
 
 
 ## Question 5. Biggest pickup zone
@@ -125,7 +126,7 @@ Which was the pickup zone with the largest `total_amount` (sum of all trips) on 
 - Morningside Heights
 - Forest Hills
 
-![No 5](week-1/img/no 5.png)
+![No 5](week-1/img/no%205.png)
 
 ## Question 6. Largest tip
 
@@ -138,7 +139,7 @@ Note: it's `tip` , not `trip`. We need the name of the zone, not the ID.
 - East Harlem North
 - **LaGuardia Airport**
 
-![No 6](week-1/img/no 6.png)
+![No 6](week-1/img/no%206.png)
 
 ## Terraform
 
