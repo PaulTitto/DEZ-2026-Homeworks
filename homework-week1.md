@@ -222,3 +222,8 @@ My solution: <LINK>
 
 Free course by @DataTalksClub: https://github.com/DataTalksClub/data-engineering-zoomcamp/
 ```
+
+
+
+# Learning in Public
+1. [X Platform](https://x.com/mosaZell/status/2013135942455025931?s=20)
